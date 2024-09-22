@@ -1,0 +1,2 @@
+Sep 22, 2024, 21:25:01:    Link registry error! .. Cannot find deleted member in the registry index: Link #1: (18.05, Oct 29, 2020)
+Sep 22, 2024, 21:48:20:    Errors in imported text file .. Premature element source termination .. Element text: siyuan://blocks/20240321191929-27lq65a .. (18.05, Oct 29, 2020)
