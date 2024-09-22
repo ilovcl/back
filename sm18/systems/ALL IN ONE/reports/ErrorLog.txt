@@ -3,3 +3,4 @@ Sep 22, 2024, 21:48:20:    Errors in imported text file .. Premature element sou
 Sep 22, 2024, 22:00:56:    Errors in imported text file .. Premature element source termination .. Element text: siyuan://blocks/20240321191929-sbtipqy .. (18.05, Oct 29, 2020)
 Sep 22, 2024, 22:01:33:    Errors in imported text file .. Premature element source termination .. Element text: siyuan://blocks/20240321191929-sbtipqy .. (18.05, Oct 29, 2020)
 Sep 22, 2024, 22:01:38:    Wrong component index: 0 (18.05, Oct 29, 2020)
+Sep 22, 2024, 23:28:41:    Windows system error .. 连到系统上的设备没有发挥作用。 .. File: file://c:\users\administrator\music\back\sm18\systems\all in one\elements\25\252.HTM (18.05, Oct 29, 2020)
