@@ -27,3 +27,4 @@ Sep 24, 2024, 21:50:16:    Windows system error .. 系统找不到指定的文件。 .. Fil
 Sep 24, 2024, 21:50:48:    Windows system error .. 系统找不到指定的文件。 .. File: file:///D:/WeGameApps/WeChat%20Files/wxid_qz3m0f229d0k22/FileStorage/File/2024-09/%E8%B7%AF%E8%A5%BF%E6%B3%95%E6%95%88%E5%BA%94.pdf (18.05, Oct 29, 2020)
 Sep 24, 2024, 21:50:56:    Windows system error .. 系统找不到指定的文件。 .. File: file:///D:/WeGameApps/WeChat%20Files/wxid_qz3m0f229d0k22/FileStorage/File/2024-09/%E8%B7%AF%E8%A5%BF%E6%B3%95%E6%95%88%E5%BA%94.pdf (18.05, Oct 29, 2020)
 Sep 25, 2024, 16:05:14:    Windows system error .. 连到系统上的设备没有发挥作用。 .. File: file://c:\users\administrator\music\back\sm18\systems\all in one\elements\23\231.HTM (18.05, Oct 29, 2020)
+Sep 26, 2024, 16:56:03:    Windows system error .. 连到系统上的设备没有发挥作用。 .. File: c:\users\administrator\music\back\sm18\systems\all in one\elements\11\117.HTM (18.05, Oct 29, 2020)
