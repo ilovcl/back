@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <SourcePath>C:\sm18\systems</SourcePath>
+  <TargetPath>C:\WyBackup\Backups</TargetPath>
+  <ProcessPath>C:\sm18\sm18.exe</ProcessPath>
+  <Duration>5</Duration>
+  <MaxBackupCount>20</MaxBackupCount>
+  <IsAutoBackup>True</IsAutoBackup>
+</Setting>
